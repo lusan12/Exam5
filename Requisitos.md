@@ -43,7 +43,7 @@ No
 #### Arquitectura 
 
                 
-            package com.google.android.instantapps.samples.hello.feature;
+package com.google.android.instantapps.samples.hello.feature;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -55,9 +55,7 @@ import android.widget.TextView;
 
 import javax.xml.transform.Result;
 
-/**
- * This Activity displays a simple hello world text and a button to open the GoodbyeActivity.
- */
+
 public class HelloActivity extends AppCompatActivity {
 
     private EditText editText1;
