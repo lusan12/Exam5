@@ -42,7 +42,8 @@ No
 
 #### Arquitectura 
 
-package com.google.android.instantapps.samples.hello.feature;
+                
+            package com.google.android.instantapps.samples.hello.feature;
 
 import android.content.Intent;
 import android.os.Bundle;
