@@ -40,7 +40,7 @@ Desarrollar una App que pueda calcular el área estas tres figuras geométricas.
 
        No
 
-#### [Arquitectura](http://joedicastro.com "Código")
+#### [Arquitectura](https://github.com/lusan12/Exam5/blob/master/Examen5.zip "Código")
 
 #### Diseño SW
 
