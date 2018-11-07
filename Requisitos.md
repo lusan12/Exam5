@@ -22,23 +22,23 @@ Desarrollar una App que pueda calcular el área estas tres figuras geométricas.
 
 - ¿Qué tipo de números?
 
-Todos los naturales y racionales .
+          Todos los naturales y racionales .
 
 - ¿ Se necesita guardar resultados anteriores?
 
-No
+      No
 
 - ¿ Debe de contener un boton para borrar los campos?
 
-Si
+      Si
 
 - ¿Debe de notificar la App si falta algún dato?
 
-Si
+      Si
 
 - ¿Debe de realizar operaciones simultaneas?
 
-No
+       No
 
 #### [Arquitectura](http://joedicastro.com "Código")
 
